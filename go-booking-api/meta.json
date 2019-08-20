@@ -1,0 +1,8 @@
+{
+    "CommitSha": "${sha}",
+    "Branch": "${branch}",
+    "BuildNumber": "${number}",
+    "BuildWorkflowID": "${workflow}",
+    "BuildDateTime": "${datetime}",
+    "DockerHubImage": "${image}"
+}
