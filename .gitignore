@@ -1,0 +1,18 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies & Build
+node_modules/
+dist/
+build/
+bin/
+
+# Logs & Environment
+*.log
+.env
+.env.local
+
+# Coverage & Cache
+coverage/
+.nyc_output/
